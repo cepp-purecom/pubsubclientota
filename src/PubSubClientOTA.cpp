@@ -4,7 +4,7 @@
   http://knolleary.net
 */
 
-#include "PubSubClient.h"
+#include "PubSubClientOTA.h"
 #include <string.h>
 
 PubSubClient::PubSubClient(Client& c) :
